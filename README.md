@@ -1,1 +1,1 @@
-# masha
+# f-strings
